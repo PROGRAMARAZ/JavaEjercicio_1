@@ -1,9 +1,5 @@
 // Desarrollado por:
-// Jose Agustín Zapata Bejarano; Cod.1524000368
-// Aldemar Sánchez Moreno; Cod.1921020591
-// Daniel Alberto Rodríguez Chaparro; Cod.1921024586
-// Julián Alberto Pimienta Osorio; Cod. 1921021916
- 
+// Jose AgustÃ­n Zapata Bejarano; Cod.1524000368
  
 import java.util.Scanner; 
 
